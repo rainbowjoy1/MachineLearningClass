@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 # coding: utf-8
-
 # # Part 1: ML Assignment
 # 
 # Mobile price:
@@ -18,6 +17,7 @@
 
 # In[107]:
 
+#Annaya tests IDE
 
 #Subquestion 1
 
