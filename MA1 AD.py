@@ -12,7 +12,8 @@
 # Perform exploratory data analysis on your chosen data set covering the following items.
 # 1. How many rows and columns are there in your selected dataset? Are there any missing values in any of the columns?
 # 2. Choose few columns from your dataset and describe them using various visualizations e.g. histograms, scatterplots etc.
-# 
+# print('Hello. Anybody there?')
+
 # 
 
 # In[107]:
