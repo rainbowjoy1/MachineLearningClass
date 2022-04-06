@@ -25,3 +25,8 @@ import pandas as pd
 
 True_df = pd.read_csv ("C:/Users/danie/Desktop/True.csv")
 Fake_df = pd.read_csv ("C:/Users/danie/Desktop/Fake.csv")
+
+#LSTM needs to be 3 dimentional
+# https://machinelearningmastery.com/develop-bidirectional-lstm-sequence-classification-python-keras/
+# https://stackoverflow.com/questions/35169491/how-to-implement-a-deep-bidirectional-lstm-with-keras
+# Add some code from homework in NLTK
